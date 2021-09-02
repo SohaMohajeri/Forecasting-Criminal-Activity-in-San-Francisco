@@ -10,7 +10,6 @@
 </div>
 
 <br />
-
 <div align="justify">
 
 Crime is one of the dominant aspects of our society but What if you could predict where an illegal act will take place before it occurred, or you could determine the time of the incident or the identity of the culprit in advance? Well Sounds a bit like science fiction But Social scientists have always believed that historical crime trends often influence future patterns, and In the recent time, it is seen that artificial intelligence has made crime prediction feasible.
