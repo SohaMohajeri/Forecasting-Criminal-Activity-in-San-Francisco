@@ -24,6 +24,4 @@ They can also see the probable future incidents as an interactive and high-resol
 
 In this project, multiple open data sources and incident data from the San Frasisco Police Department are used which are available online at data.sfgov.org. Specifically, 6 datasets about the Date, time and category of crime and Neighborhood and geometry of incident and also Age gender and income of residents in each neighborhood are used and heatmaps are created to see which type of offense is more common in each neighborhood And Finally, probabilities of crimes of different categories taking place in a given neighborhood and date are predicted.
 
-
-
 </div>
